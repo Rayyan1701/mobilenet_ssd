@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>org (6).jpg</filename>
+	<path>C:\Users\Dell\OneDrive\Desktop\Tensorflow\workspace\training_demo\Images\org (6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kitchen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>64</ymin>
+			<xmax>289</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kitchen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>13</ymin>
+			<xmax>504</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

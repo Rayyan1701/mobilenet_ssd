@@ -1,0 +1,36 @@
+44 bottle
+51 bowl
+90 tooth brush
+
+
+52 banana
+53 apple
+54 sandwich
+55 orange
+56 broccoli
+57 carrot
+59 pizza
+60 donut
+61 cake
+
+
+
+classes data we have
+
+
+organic waste(add coco 55 56 57 59 60 61 accordingly)
+bottle (this will be extension to coco 41)
+
+
+more classes we need
+plastic covers (food packets)
+vegetable peels
+egg shell
+
+
+can
+
+
+
+
+

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>alum (2).jpg</filename>
+	<path>C:\Users\Dell\OneDrive\Desktop\Tensorflow\workspace\training_demo\Images\alum (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>174</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aluminium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>7</ymin>
+			<xmax>165</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

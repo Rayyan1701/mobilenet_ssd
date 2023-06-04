@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>cart (6).jpg</filename>
+	<path>C:\Users\Dell\OneDrive\Desktop\Tensorflow\workspace\training_demo\Images\cart (6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>151</ymin>
+			<xmax>240</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>129</ymin>
+			<xmax>419</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>

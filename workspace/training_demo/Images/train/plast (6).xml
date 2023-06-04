@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>plast (6).jpg</filename>
+	<path>C:\Users\Dell\OneDrive\Desktop\Tensorflow\workspace\training_demo\Images\plast (6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1980</width>
+		<height>1980</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>361</xmin>
+			<ymin>334</ymin>
+			<xmax>1529</xmax>
+			<ymax>1811</ymax>
+		</bndbox>
+	</object>
+</annotation>

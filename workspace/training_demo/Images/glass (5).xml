@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>glass (5).jpg</filename>
+	<path>C:\Users\Dell\OneDrive\Desktop\Tensorflow\workspace\training_demo\Images\glass (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>439</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>71</ymin>
+			<xmax>211</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>59</ymin>
+			<xmax>343</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>138</ymin>
+			<xmax>496</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>
